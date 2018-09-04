@@ -31,10 +31,10 @@
 	<key>Left shoulder</key>
 	<string>q</string>
 	<key>Right shoulder</key>
-	<string>w</string>
+	<string>q</string>
 	<key>Left trigger</key>
 	<string>X</string>
 	<key>Right trigger</key>
-	<string>Z</string>
+	<string>w</string>
 </dict>
 </plist>
